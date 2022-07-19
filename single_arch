@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-19T12:59:52.884Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="MJmiJVHuy12Xi-hS4heS" version="20.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-19T13:01:44.930Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="GXzoxvcxaQD4a6iUSE9l" version="20.1.1" type="github">
   <diagram id="uKqnsHn0I3Cd6VE5xohf" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -29,19 +29,19 @@
           <mxGeometry x="401" y="574" width="60" height="140" as="geometry" />
         </mxCell>
         <mxCell id="p0KRyM0DvsH6ueGE7jYR-16" value="Core" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FFFFFF;strokeColor=#68B92E;fillColor=#68B92E;" vertex="1" parent="1">
-          <mxGeometry x="361" y="379" width="100" height="40" as="geometry" />
+          <mxGeometry x="361" y="382" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="p0KRyM0DvsH6ueGE7jYR-17" value="Postgresql DB0" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FFFFFF;strokeColor=#68B92E;fillColor=#68B92E;" vertex="1" parent="1">
           <mxGeometry x="39" y="382" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="p0KRyM0DvsH6ueGE7jYR-18" value="Webapp" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FFFFFF;strokeColor=#68B92E;fillColor=#68B92E;" vertex="1" parent="1">
-          <mxGeometry x="199" y="291" width="100" height="40" as="geometry" />
+          <mxGeometry x="199" y="294" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="p0KRyM0DvsH6ueGE7jYR-19" value="StreamProc" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FFFFFF;strokeColor=#68B92E;fillColor=#68B92E;" vertex="1" parent="1">
           <mxGeometry x="39" y="338" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="p0KRyM0DvsH6ueGE7jYR-23" value="Redis" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FFFFFF;strokeColor=#68B92E;fillColor=#68B92E;" vertex="1" parent="1">
-          <mxGeometry x="200" y="335" width="100" height="40" as="geometry" />
+          <mxGeometry x="200" y="339" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="p0KRyM0DvsH6ueGE7jYR-24" value="Kafka" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FFFFFF;strokeColor=#68B92E;fillColor=#68B92E;" vertex="1" parent="1">
           <mxGeometry x="39" y="252" width="100" height="40" as="geometry" />
@@ -53,7 +53,7 @@
           <mxGeometry x="39" y="295.5" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="p0KRyM0DvsH6ueGE7jYR-28" value="Postgresql DB1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FFFFFF;strokeColor=#68B92E;fillColor=#68B92E;" vertex="1" parent="1">
-          <mxGeometry x="200" y="378.5" width="100" height="40" as="geometry" />
+          <mxGeometry x="200" y="382.5" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="p0KRyM0DvsH6ueGE7jYR-29" value="&lt;font color=&quot;#ffffff&quot;&gt;Squid&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#68B92E;strokeColor=#68B92E;" vertex="1" parent="1">
           <mxGeometry x="259" y="120" width="100" height="34" as="geometry" />
@@ -149,16 +149,28 @@
           <mxGeometry x="630" y="31" width="460" height="60" as="geometry" />
         </mxCell>
         <mxCell id="p0KRyM0DvsH6ueGE7jYR-71" value="CloudAuth" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FFFFFF;strokeColor=#68B92E;fillColor=#68B92E;" vertex="1" parent="1">
-          <mxGeometry x="361" y="335.5" width="100" height="40" as="geometry" />
+          <mxGeometry x="361" y="337.5" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="p0KRyM0DvsH6ueGE7jYR-72" value="CloudAuth" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FFFFFF;strokeColor=#68B92E;fillColor=#68B92E;" vertex="1" parent="1">
           <mxGeometry x="972" y="335.5" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="p0KRyM0DvsH6ueGE7jYR-73" value="SQLManager" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FFFFFF;strokeColor=#68B92E;fillColor=#68B92E;" vertex="1" parent="1">
-          <mxGeometry x="361" y="291" width="100" height="40" as="geometry" />
+          <mxGeometry x="361" y="293" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="p0KRyM0DvsH6ueGE7jYR-74" value="SQLManager" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FFFFFF;strokeColor=#68B92E;fillColor=#68B92E;" vertex="1" parent="1">
           <mxGeometry x="970" y="291" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="p0KRyM0DvsH6ueGE7jYR-82" value="Report Beat" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FFFFFF;strokeColor=#68B92E;fillColor=#68B92E;" vertex="1" parent="1">
+          <mxGeometry x="199" y="251" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="p0KRyM0DvsH6ueGE7jYR-83" value="Report Worker" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FFFFFF;strokeColor=#68B92E;fillColor=#68B92E;" vertex="1" parent="1">
+          <mxGeometry x="199" y="207" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="p0KRyM0DvsH6ueGE7jYR-84" value="Report Worker" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FFFFFF;strokeColor=#68B92E;fillColor=#68B92E;" vertex="1" parent="1">
+          <mxGeometry x="810" y="207" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="p0KRyM0DvsH6ueGE7jYR-85" value="Report Beat" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FFFFFF;strokeColor=#68B92E;fillColor=#68B92E;" vertex="1" parent="1">
+          <mxGeometry x="810" y="251" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
