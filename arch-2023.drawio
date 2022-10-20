@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-20T18:51:31.023Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="2BbuzYTts3mIFGAw6jUd" version="20.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-20T18:53:23.775Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="n78W43YHkh37Z47fbDL8" version="20.4.1" type="github">
   <diagram id="9oRhc1r4mWf8eJZ34Zwf" name="Page-1">
     <mxGraphModel dx="3762" dy="2219" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -36,7 +36,7 @@
         <mxCell id="lge93pLNkwrm1VapkDIt-9" value="设备" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#68B92E;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=23;fontStyle=1;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.traditional_server;fontFamily=Garamond;" vertex="1" parent="1">
           <mxGeometry x="-210" y="1146" width="57.69" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="lge93pLNkwrm1VapkDIt-175" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;strokeWidth=2;entryX=0.75;entryY=1;entryDx=0;entryDy=0;fontStyle=1;fontFamily=Garamond;fontSize=23;" edge="1" parent="1" source="lge93pLNkwrm1VapkDIt-24" target="lge93pLNkwrm1VapkDIt-37">
+        <mxCell id="lge93pLNkwrm1VapkDIt-175" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;strokeWidth=2;entryX=0.75;entryY=1;entryDx=0;entryDy=0;fontStyle=1;fontFamily=Garamond;fontSize=23;dashed=1;" edge="1" parent="1" source="lge93pLNkwrm1VapkDIt-24" target="lge93pLNkwrm1VapkDIt-37">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="110" y="790" as="targetPoint" />
           </mxGeometry>
@@ -106,7 +106,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="lge93pLNkwrm1VapkDIt-45" value="消息总线&lt;br style=&quot;font-size: 23px;&quot;&gt;RabbitMQ" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#FF3333;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=23;fontStyle=1;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.mq_broker;rounded=1;shadow=0;strokeWidth=1;fontFamily=Garamond;" vertex="1" parent="1">
+        <mxCell id="lge93pLNkwrm1VapkDIt-45" value="消息总线&lt;br style=&quot;font-size: 23px;&quot;&gt;RabbitMQ" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#68B92E;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=23;fontStyle=1;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.mq_broker;rounded=1;shadow=0;strokeWidth=1;fontFamily=Garamond;" vertex="1" parent="1">
           <mxGeometry x="-467.5" y="405" width="116" height="116" as="geometry" />
         </mxCell>
         <mxCell id="lge93pLNkwrm1VapkDIt-46" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;exitX=0;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;strokeWidth=2;fontStyle=1;fontFamily=Garamond;fontSize=23;" edge="1" parent="1" source="lge93pLNkwrm1VapkDIt-37" target="lge93pLNkwrm1VapkDIt-45">
@@ -222,7 +222,7 @@
         <mxCell id="lge93pLNkwrm1VapkDIt-168" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;strokeColor=#000000;strokeWidth=2;fontStyle=1;fontFamily=Garamond;fontSize=23;" edge="1" parent="1" source="lge93pLNkwrm1VapkDIt-95" target="lge93pLNkwrm1VapkDIt-140">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lge93pLNkwrm1VapkDIt-95" value="配置中心&lt;br style=&quot;font-size: 23px;&quot;&gt;&lt;span style=&quot;color: rgb(102, 102, 102); font-size: 23px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;Nacos&lt;/span&gt;" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#0000FF;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=23;fontStyle=1;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.table;rounded=1;shadow=0;strokeWidth=1;fontFamily=Garamond;" vertex="1" parent="1">
+        <mxCell id="lge93pLNkwrm1VapkDIt-95" value="配置中心&lt;br style=&quot;font-size: 23px;&quot;&gt;&lt;span style=&quot;color: rgb(102, 102, 102); font-size: 23px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;Nacos&lt;/span&gt;" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#68B92E;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=23;fontStyle=1;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.table;rounded=1;shadow=0;strokeWidth=1;fontFamily=Garamond;" vertex="1" parent="1">
           <mxGeometry x="-454.71" y="665" width="90" height="90" as="geometry" />
         </mxCell>
         <mxCell id="lge93pLNkwrm1VapkDIt-102" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#000000;strokeWidth=2;entryX=0.25;entryY=1;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;fontStyle=1;fontFamily=Garamond;fontSize=23;" edge="1" parent="1" source="lge93pLNkwrm1VapkDIt-95" target="lge93pLNkwrm1VapkDIt-21">
@@ -349,18 +349,13 @@
             <mxPoint x="-260" y="50" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lge93pLNkwrm1VapkDIt-149" value="Security" style="html=1;strokeColor=none;fillColor=#99FF33;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=23;outlineConnect=0;spacingTop=-6;fontColor=#FFFFFF;sketch=0;shape=mxgraph.sitemap.security;rounded=1;shadow=0;dashed=1;strokeWidth=1;fontStyle=1;fontFamily=Garamond;" vertex="1" parent="1">
+        <mxCell id="lge93pLNkwrm1VapkDIt-149" value="Security" style="html=1;strokeColor=none;fillColor=#68B92E;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=23;outlineConnect=0;spacingTop=-6;fontColor=#FFFFFF;sketch=0;shape=mxgraph.sitemap.security;rounded=1;shadow=0;dashed=1;strokeWidth=1;fontStyle=1;fontFamily=Garamond;" vertex="1" parent="1">
           <mxGeometry x="-469.5" y="887.78" width="130" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="lge93pLNkwrm1VapkDIt-151" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;dashed=1;strokeColor=#000000;strokeWidth=2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;entryPerimeter=0;edgeStyle=orthogonalEdgeStyle;fontStyle=1;fontFamily=Garamond;fontSize=23;" edge="1" parent="1" source="lge93pLNkwrm1VapkDIt-149" target="lge93pLNkwrm1VapkDIt-24">
+        <mxCell id="lge93pLNkwrm1VapkDIt-151" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeColor=#000000;strokeWidth=2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;entryPerimeter=0;edgeStyle=orthogonalEdgeStyle;fontStyle=1;fontFamily=Garamond;fontSize=23;" edge="1" parent="1" source="lge93pLNkwrm1VapkDIt-149" target="lge93pLNkwrm1VapkDIt-24">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="80" y="840" as="sourcePoint" />
             <mxPoint x="130" y="790" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="lge93pLNkwrm1VapkDIt-152" value="API鉴权" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1;fontFamily=Garamond;fontSize=23;" vertex="1" connectable="0" parent="lge93pLNkwrm1VapkDIt-151">
-          <mxGeometry x="-0.1057" y="2" relative="1" as="geometry">
-            <mxPoint x="1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="lge93pLNkwrm1VapkDIt-154" value="" style="group;fontStyle=1;fontFamily=Garamond;fontSize=23;strokeColor=#68B92E;dashed=1;strokeWidth=4;" vertex="1" connectable="0" parent="1">
@@ -424,6 +419,9 @@
         </mxCell>
         <mxCell id="lge93pLNkwrm1VapkDIt-181" value="" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=1;shadow=0;sketch=0;strokeColor=#68B92E;strokeWidth=4;fontFamily=Garamond;fontSize=32;fontColor=#FF8000;fillColor=none;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="265.5" y="1027.5" width="95" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="lge93pLNkwrm1VapkDIt-182" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;&lt;font color=&quot;#000000&quot; style=&quot;font-size: 23px;&quot;&gt;鉴权中心&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=23;fontFamily=Garamond;fontColor=#FF8000;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-464.5" y="977.78" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
