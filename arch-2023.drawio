@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-21T02:10:56.206Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="S30NTzUkJdCOGw9DKDHG" version="20.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-21T02:32:25.065Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="emWNrpu9aYQrgwQ9N14I" version="20.4.1" type="github">
   <diagram id="9oRhc1r4mWf8eJZ34Zwf" name="Page-1">
     <mxGraphModel dx="3549" dy="2004" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -113,7 +113,7 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-300" y="500" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-181" y="441" />
+              <mxPoint x="-181" y="470" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -240,20 +240,14 @@
         <mxCell id="lge93pLNkwrm1VapkDIt-140" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#68B92E;fillColor=none;gradientColor=#68B92E;dashed=1;strokeWidth=4;fontStyle=1;fontFamily=Garamond;fontSize=23;" vertex="1" parent="lge93pLNkwrm1VapkDIt-139">
           <mxGeometry width="360" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="lge93pLNkwrm1VapkDIt-141" value="Spark" style="whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#68B92E;fillColor=none;gradientColor=#68B92E;rounded=1;fontStyle=1;fontFamily=Garamond;fontSize=23;strokeWidth=4;" vertex="1" parent="lge93pLNkwrm1VapkDIt-139">
+        <mxCell id="lge93pLNkwrm1VapkDIt-141" value="Flink" style="whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#68B92E;fillColor=none;gradientColor=#68B92E;rounded=1;fontStyle=1;fontFamily=Garamond;fontSize=23;strokeWidth=4;" vertex="1" parent="lge93pLNkwrm1VapkDIt-139">
           <mxGeometry x="50" y="20" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="lge93pLNkwrm1VapkDIt-142" value="Spark" style="whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#68B92E;fillColor=none;gradientColor=none;rounded=1;fontStyle=1;fontFamily=Garamond;fontSize=23;strokeWidth=4;" vertex="1" parent="lge93pLNkwrm1VapkDIt-139">
+        <mxCell id="lge93pLNkwrm1VapkDIt-142" value="Flink" style="whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#68B92E;fillColor=none;gradientColor=none;rounded=1;fontStyle=1;fontFamily=Garamond;fontSize=23;strokeWidth=4;" vertex="1" parent="lge93pLNkwrm1VapkDIt-139">
           <mxGeometry x="230" y="20" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="lge93pLNkwrm1VapkDIt-145" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;strokeWidth=2;fontStyle=1;fontFamily=Garamond;fontSize=23;" edge="1" parent="1" source="lge93pLNkwrm1VapkDIt-140" target="lge93pLNkwrm1VapkDIt-134">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="lge93pLNkwrm1VapkDIt-148" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;dashed=1;strokeColor=#000000;strokeWidth=2;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontStyle=1;fontFamily=Garamond;fontSize=23;" edge="1" parent="1" source="lge93pLNkwrm1VapkDIt-48" target="lge93pLNkwrm1VapkDIt-138">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="80" y="510" as="sourcePoint" />
-            <mxPoint x="-260" y="50" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="lge93pLNkwrm1VapkDIt-149" value="Security" style="html=1;strokeColor=none;fillColor=#00CC00;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=23;outlineConnect=0;spacingTop=-6;fontColor=#FFFFFF;sketch=0;shape=mxgraph.sitemap.security;rounded=1;shadow=0;dashed=1;strokeWidth=1;fontStyle=1;fontFamily=Garamond;" vertex="1" parent="1">
           <mxGeometry x="-469.5" y="887.78" width="130" height="90" as="geometry" />
@@ -347,7 +341,7 @@
         <mxCell id="lge93pLNkwrm1VapkDIt-137" value="Redis" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#68B92E;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=23;fontStyle=1;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.cached_volume;rounded=1;shadow=0;strokeWidth=1;fontFamily=Garamond;" vertex="1" parent="lge93pLNkwrm1VapkDIt-183">
           <mxGeometry x="144" y="33" width="62" height="78" as="geometry" />
         </mxCell>
-        <mxCell id="lge93pLNkwrm1VapkDIt-147" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeColor=#000000;strokeWidth=2;exitX=0.392;exitY=0.011;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;fontStyle=1;fontFamily=Garamond;fontSize=23;" edge="1" parent="lge93pLNkwrm1VapkDIt-183" source="lge93pLNkwrm1VapkDIt-37" target="lge93pLNkwrm1VapkDIt-137">
+        <mxCell id="lge93pLNkwrm1VapkDIt-147" value="" style="endArrow=classic;startArrow=none;html=1;rounded=0;strokeColor=#000000;strokeWidth=2;exitX=0.392;exitY=0.011;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;fontStyle=1;fontFamily=Garamond;fontSize=23;startFill=0;" edge="1" parent="lge93pLNkwrm1VapkDIt-183" source="lge93pLNkwrm1VapkDIt-37" target="lge93pLNkwrm1VapkDIt-137">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="300" y="330" as="sourcePoint" />
             <mxPoint x="350" y="280" as="targetPoint" />
@@ -355,6 +349,28 @@
         </mxCell>
         <mxCell id="lge93pLNkwrm1VapkDIt-179" value="&lt;b&gt;API接口&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=32;fontFamily=Garamond;fontColor=#FF8000;" vertex="1" parent="lge93pLNkwrm1VapkDIt-183">
           <mxGeometry x="5" y="15" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="lge93pLNkwrm1VapkDIt-185" value="" style="endArrow=classic;startArrow=none;html=1;rounded=0;strokeColor=#000000;strokeWidth=2;fontFamily=Garamond;fontSize=23;fontColor=#000000;exitX=0.75;exitY=0;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;startFill=0;" edge="1" parent="1" source="lge93pLNkwrm1VapkDIt-48" target="lge93pLNkwrm1VapkDIt-134">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="20" y="40" as="sourcePoint" />
+            <mxPoint x="-230" y="290" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-322" y="50" />
+              <mxPoint x="42" y="50" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lge93pLNkwrm1VapkDIt-186" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#000000;strokeWidth=2;fontFamily=Garamond;fontSize=23;fontColor=#000000;exitX=0.5;exitY=0;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1" source="lge93pLNkwrm1VapkDIt-48" target="lge93pLNkwrm1VapkDIt-138">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-280" y="500" as="sourcePoint" />
+            <mxPoint x="-230" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lge93pLNkwrm1VapkDIt-187" value="&lt;b&gt;数据采集&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=23;fontFamily=Garamond;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="750" y="650" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lge93pLNkwrm1VapkDIt-188" value="ETL" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=23;fontFamily=Garamond;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="360.5" y="271.5" width="70" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
