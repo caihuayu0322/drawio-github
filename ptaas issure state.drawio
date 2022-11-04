@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-04T03:01:52.378Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="phKpZxB-i66egqpsYyC4" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-04T03:02:12.509Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="fnEUSuSWB0hvoJOXL0BS" version="20.5.1" type="github">
   <diagram id="ysa-5UAIZGv6yvmk_Zik" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#FFFFFF" math="0" shadow="0">
       <root>
@@ -116,8 +116,8 @@
         <mxCell id="R5EZcz4ksub6QIZqY8Q5-32" value="&lt;b&gt;3&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="530" y="630" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="holnna0QpmAC-s_6KeYl-1" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;&lt;font face=&quot;Georgia&quot;&gt;1. 待确认是内部状态，客户不可见&lt;br&gt;2. 测试团队可以操作所有状态变动&lt;br&gt;3. 客户仅仅可以操作接受风险和问题关闭&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="220" y="190" width="300" height="70" as="geometry" />
+        <mxCell id="holnna0QpmAC-s_6KeYl-1" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;&lt;font face=&quot;Georgia&quot;&gt;1. 待确认是内部状态，客户不可见；&lt;br&gt;2. 测试团队可以操作所有状态变动；&lt;br&gt;3. 客户仅仅可以操作接受风险和问题关闭；&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="220" y="190" width="310" height="70" as="geometry" />
         </mxCell>
         <mxCell id="SqzyMnPPzymFSGO_3pvY-1" value="&lt;b&gt;4&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="670" y="580" width="30" height="30" as="geometry" />
