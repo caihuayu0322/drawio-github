@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-04T03:10:31.691Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="dP8OwxN6gYD5KYThZzFI" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-07T09:54:30.157Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="EYW2VKzPhvXODLwg9LKp" version="20.5.1" type="github">
   <diagram id="ysa-5UAIZGv6yvmk_Zik" name="Page-1">
-    <mxGraphModel dx="1422" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#FFFFFF" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#FFFFFF" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -96,7 +96,7 @@
           <mxGeometry x="785" y="150" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="R5EZcz4ksub6QIZqY8Q5-25" value="&lt;b&gt;1&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="565" y="265" width="30" height="30" as="geometry" />
+          <mxGeometry x="530" y="260" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="R5EZcz4ksub6QIZqY8Q5-26" value="&lt;b&gt;2&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="565" y="400" width="30" height="30" as="geometry" />
@@ -119,8 +119,19 @@
         <mxCell id="holnna0QpmAC-s_6KeYl-1" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;&lt;font face=&quot;Georgia&quot;&gt;1. 待确认是内部状态，客户不可见；&lt;br&gt;2. 测试团队可以操作所有状态变动；&lt;br&gt;3. 客户可以操作待复测、接受风险和问题关闭；&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="220" y="210" width="340" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="SqzyMnPPzymFSGO_3pvY-1" value="&lt;b&gt;4&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="SqzyMnPPzymFSGO_3pvY-1" value="&lt;b&gt;4&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="670" y="580" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0b7it3xUuCSMe1GPNKMU-1" value="" style="endArrow=classic;html=1;rounded=0;exitX=1.003;exitY=0.7;exitDx=0;exitDy=0;exitPerimeter=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="holnna0QpmAC-s_6KeYl-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="670" y="120" as="sourcePoint" />
+            <mxPoint x="370" y="360" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="560" y="259" />
+              <mxPoint x="560" y="290" />
+              <mxPoint x="370" y="290" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
