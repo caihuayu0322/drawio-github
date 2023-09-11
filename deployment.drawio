@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-11T09:48:01.454Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="KY3aNzgCvXSvb_z8TVa-" version="21.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-11T09:48:17.656Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="W9XXzpwJIKobzR3EzTg_" version="21.7.4" type="github">
   <diagram name="第 1 页" id="n4morXOjP78Tz9eGQ55j">
     <mxGraphModel dx="2603" dy="758" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -181,8 +181,8 @@
         <mxCell id="kqmTzdiRQO2oJOiE_Awe-57" value="OS" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="119" y="575" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kqmTzdiRQO2oJOiE_Awe-59" value="Layer one:&lt;br&gt;bare-metal" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry y="703" width="80" height="40" as="geometry" />
+        <mxCell id="kqmTzdiRQO2oJOiE_Awe-59" value="Layer One:&lt;br&gt;Bare-Metal" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-5" y="703" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="kqmTzdiRQO2oJOiE_Awe-60" value="&lt;b&gt;Layer Four:&lt;br&gt;Application&lt;br&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry y="120" width="90" height="40" as="geometry" />
