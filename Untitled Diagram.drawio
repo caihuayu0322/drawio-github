@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.8.6">
   <diagram name="Page-1" id="1q2TIL3UEI9jZPHqc_mc">
-    <mxGraphModel dx="5538" dy="2388" grid="1" gridSize="15" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3984" dy="1633" grid="1" gridSize="15" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -19,8 +19,8 @@
         <mxCell id="5cdJKXaqyWrpmGwmejw1-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=14;" edge="1" parent="1" source="Bym8yL4cbAF-1ZMvf-hn-109" target="Bym8yL4cbAF-1ZMvf-hn-114">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Bym8yL4cbAF-1ZMvf-hn-109" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;主要结局指标:卒中事件&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;次要结局指标: 残疾&amp;nbsp; &amp;nbsp;mRs评分&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="-2094" y="-381" width="842" height="60" as="geometry" />
+        <mxCell id="Bym8yL4cbAF-1ZMvf-hn-109" value="&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;主要结局指标: 卒中事件&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;次要结局指标: 心血管事件、出血性事件、死亡或&lt;span style=&quot;background-color: initial;&quot;&gt;残疾（&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;mRs≥3分&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;）&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="-2093.5" y="-375" width="842" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Bym8yL4cbAF-1ZMvf-hn-114" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;统计学分析&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="-2093.5" y="-282" width="842" height="60" as="geometry" />
