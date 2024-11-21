@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.0">
   <diagram name="Page-1" id="1q2TIL3UEI9jZPHqc_mc">
-    <mxGraphModel dx="3984" dy="1838" grid="1" gridSize="15" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4599" dy="2154" grid="1" gridSize="15" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -56,10 +56,10 @@
           <mxGeometry x="105" width="195" height="98" as="geometry" />
         </mxCell>
         <mxCell id="Bym8yL4cbAF-1ZMvf-hn-132" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;暴露组&lt;/span&gt;&lt;div style=&quot;font-size: 17px;&quot;&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;中度&lt;span style=&quot;background-color: initial; font-size: 17px;&quot;&gt;狭窄&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 17px;&quot;&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 17px;&quot;&gt;氯吡格雷&lt;/span&gt;抵抗&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;fontFamily=Times New Roman;fontSize=17;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=0" parent="Bym8yL4cbAF-1ZMvf-hn-136" vertex="1">
-          <mxGeometry y="77" width="135" height="60" as="geometry" />
+          <mxGeometry y="76" width="135" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Bym8yL4cbAF-1ZMvf-hn-134" value="对照组&lt;div style=&quot;font-size: 17px;&quot;&gt;中度&lt;span style=&quot;background-color: initial; font-size: 17px;&quot;&gt;狭窄&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 17px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 17px;&quot;&gt;氯吡格雷&lt;/span&gt;非抵抗&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;fontFamily=Times New Roman;fontSize=17;fillColor=#d5e8d4;strokeColor=#82b366;" parent="Bym8yL4cbAF-1ZMvf-hn-136" vertex="1">
-          <mxGeometry x="270" y="77" width="135" height="60" as="geometry" />
+          <mxGeometry x="270" y="76" width="135" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Bym8yL4cbAF-1ZMvf-hn-137" value="" style="group;rounded=1;fontStyle=0;fontFamily=Times New Roman;fontSize=17;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="-1455" y="-590" width="390" height="195" as="geometry" />
@@ -74,7 +74,7 @@
           <mxGeometry x="105" y="-3" width="195" height="98" as="geometry" />
         </mxCell>
         <mxCell id="Bym8yL4cbAF-1ZMvf-hn-141" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;暴露组&lt;/span&gt;&lt;div style=&quot;font-size: 17px;&quot;&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;重度&lt;span style=&quot;background-color: initial; font-size: 17px;&quot;&gt;狭窄&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 17px;&quot;&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 17px;&quot;&gt;氯吡格雷&lt;/span&gt;抵抗&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;fontFamily=Times New Roman;fontSize=17;fontStyle=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="Bym8yL4cbAF-1ZMvf-hn-137" vertex="1">
-          <mxGeometry y="78" width="135" height="60" as="geometry" />
+          <mxGeometry y="77" width="135" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Bym8yL4cbAF-1ZMvf-hn-142" value="对照组&lt;div style=&quot;font-size: 17px;&quot;&gt;重度&lt;span style=&quot;background-color: initial; font-size: 17px;&quot;&gt;狭窄&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 17px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 17px;&quot;&gt;氯吡格雷&lt;/span&gt;非抵抗&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;fontFamily=Times New Roman;fontSize=17;fillColor=#d5e8d4;strokeColor=#82b366;" parent="Bym8yL4cbAF-1ZMvf-hn-137" vertex="1">
           <mxGeometry x="270" y="77" width="135" height="60" as="geometry" />
@@ -92,7 +92,7 @@
           <mxGeometry x="97.5" width="195" height="98" as="geometry" />
         </mxCell>
         <mxCell id="Bym8yL4cbAF-1ZMvf-hn-147" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;暴露组&lt;/span&gt;&lt;div style=&quot;font-size: 17px;&quot;&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;轻度狭窄&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 17px;&quot;&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;氯吡格雷抵抗&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;fontFamily=Times New Roman;fontSize=17;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=0" parent="Bym8yL4cbAF-1ZMvf-hn-143" vertex="1">
-          <mxGeometry y="79" width="135" height="60" as="geometry" />
+          <mxGeometry y="78" width="135" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Bym8yL4cbAF-1ZMvf-hn-148" value="对照组&lt;div style=&quot;font-size: 17px;&quot;&gt;轻度狭窄&lt;/div&gt;&lt;div style=&quot;font-size: 17px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 17px;&quot;&gt;氯吡格雷&lt;/span&gt;非抵抗&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;fontFamily=Times New Roman;fontSize=17;fillColor=#d5e8d4;strokeColor=#82b366;" parent="Bym8yL4cbAF-1ZMvf-hn-143" vertex="1">
           <mxGeometry x="255" y="78" width="135" height="60" as="geometry" />
