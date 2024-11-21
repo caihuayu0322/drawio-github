@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.8.6">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.0">
   <diagram name="Page-1" id="1q2TIL3UEI9jZPHqc_mc">
-    <mxGraphModel dx="4343" dy="1766" grid="1" gridSize="15" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3984" dy="1838" grid="1" gridSize="15" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -13,7 +13,7 @@
         <mxCell id="Bym8yL4cbAF-1ZMvf-hn-101" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=17;" parent="1" source="Bym8yL4cbAF-1ZMvf-hn-102" target="Bym8yL4cbAF-1ZMvf-hn-105" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Bym8yL4cbAF-1ZMvf-hn-102" value="服用氯吡格雷患者(5-7d)" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=17;" parent="1" vertex="1">
+        <mxCell id="Bym8yL4cbAF-1ZMvf-hn-102" value="服用氯吡格雷患者(5-8d)" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=17;" parent="1" vertex="1">
           <mxGeometry x="-1732.5" y="-790" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5cdJKXaqyWrpmGwmejw1-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=17;" parent="1" source="Bym8yL4cbAF-1ZMvf-hn-109" target="Bym8yL4cbAF-1ZMvf-hn-114" edge="1">
@@ -31,7 +31,7 @@
         <mxCell id="Bym8yL4cbAF-1ZMvf-hn-150" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=17;" parent="1" source="Bym8yL4cbAF-1ZMvf-hn-105" target="Bym8yL4cbAF-1ZMvf-hn-146" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3jIVE-wIZ4ZXev9OY-bG-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Bym8yL4cbAF-1ZMvf-hn-105" target="Bym8yL4cbAF-1ZMvf-hn-130">
+        <mxCell id="3jIVE-wIZ4ZXev9OY-bG-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Bym8yL4cbAF-1ZMvf-hn-105" target="Bym8yL4cbAF-1ZMvf-hn-130" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Bym8yL4cbAF-1ZMvf-hn-105" value="&lt;div style=&quot;font-size: 17px;&quot;&gt;&lt;span style=&quot;text-wrap-mode: nowrap; font-size: 17px; color: rgb(25, 25, 25);&quot;&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;影像学检查&lt;/b&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;text-wrap-mode: nowrap; font-size: 17px;&quot;&gt;&lt;span style=&quot;font-size: 17px; color: rgb(25, 25, 25);&quot;&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;评估血管狭窄程度&lt;/b&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-wrap-mode: nowrap; font-size: 17px;&quot;&gt;&lt;span style=&quot;font-size: 17px; color: rgb(25, 25, 25);&quot;&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;（MRA/CTA/DSA）&lt;/b&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fontStyle=0;fontFamily=Times New Roman;fontSize=17;" parent="1" vertex="1">
@@ -73,10 +73,10 @@
         <mxCell id="Bym8yL4cbAF-1ZMvf-hn-140" value="&lt;div&gt;&lt;font color=&quot;#191919&quot; style=&quot;font-size: 17px;&quot;&gt;&lt;span style=&quot;font-size: 17px; text-wrap-mode: nowrap;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;font color=&quot;#191919&quot; style=&quot;font-size: 17px;&quot;&gt;&lt;span style=&quot;font-size: 17px; text-wrap-mode: nowrap;&quot;&gt;血小板聚集功能检测&lt;/span&gt;&lt;/font&gt;&lt;div style=&quot;font-size: 17px;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fontFamily=Times New Roman;fontSize=17;" parent="Bym8yL4cbAF-1ZMvf-hn-137" vertex="1">
           <mxGeometry x="105" y="-3" width="195" height="98" as="geometry" />
         </mxCell>
-        <mxCell id="Bym8yL4cbAF-1ZMvf-hn-141" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;暴露组&lt;/span&gt;&lt;div style=&quot;font-size: 17px;&quot;&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;中度&lt;span style=&quot;background-color: initial; font-size: 17px;&quot;&gt;狭窄&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 17px;&quot;&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 17px;&quot;&gt;氯吡格雷&lt;/span&gt;抵抗&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;fontFamily=Times New Roman;fontSize=17;fontStyle=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="Bym8yL4cbAF-1ZMvf-hn-137" vertex="1">
+        <mxCell id="Bym8yL4cbAF-1ZMvf-hn-141" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;暴露组&lt;/span&gt;&lt;div style=&quot;font-size: 17px;&quot;&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;重度&lt;span style=&quot;background-color: initial; font-size: 17px;&quot;&gt;狭窄&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 17px;&quot;&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 17px;&quot;&gt;氯吡格雷&lt;/span&gt;抵抗&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;fontFamily=Times New Roman;fontSize=17;fontStyle=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="Bym8yL4cbAF-1ZMvf-hn-137" vertex="1">
           <mxGeometry y="78" width="135" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Bym8yL4cbAF-1ZMvf-hn-142" value="对照组&lt;div style=&quot;font-size: 17px;&quot;&gt;轻度&lt;span style=&quot;background-color: initial; font-size: 17px;&quot;&gt;狭窄&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 17px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 17px;&quot;&gt;氯吡格雷&lt;/span&gt;非抵抗&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;fontFamily=Times New Roman;fontSize=17;fillColor=#d5e8d4;strokeColor=#82b366;" parent="Bym8yL4cbAF-1ZMvf-hn-137" vertex="1">
+        <mxCell id="Bym8yL4cbAF-1ZMvf-hn-142" value="对照组&lt;div style=&quot;font-size: 17px;&quot;&gt;重度&lt;span style=&quot;background-color: initial; font-size: 17px;&quot;&gt;狭窄&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 17px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 17px;&quot;&gt;氯吡格雷&lt;/span&gt;非抵抗&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;fontFamily=Times New Roman;fontSize=17;fillColor=#d5e8d4;strokeColor=#82b366;" parent="Bym8yL4cbAF-1ZMvf-hn-137" vertex="1">
           <mxGeometry x="270" y="77" width="135" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Bym8yL4cbAF-1ZMvf-hn-143" value="" style="group;rounded=1;fontFamily=Times New Roman;fontSize=17;" parent="1" vertex="1" connectable="0">
@@ -119,7 +119,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5cdJKXaqyWrpmGwmejw1-8" value="90d 随访" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontSize=17;" parent="1" vertex="1">
-          <mxGeometry x="-1671" y="-314" width="90" height="30" as="geometry" />
+          <mxGeometry x="-1672" y="-409" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
