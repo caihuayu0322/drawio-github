@@ -94,10 +94,10 @@
             <mxPoint x="775" y="863" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kJEVwrQ9yLZuHqwZEnRY-54" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="kJEVwrQ9yLZuHqwZEnRY-54" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=0.707;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="kJEVwrQ9yLZuHqwZEnRY-19">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="769" y="796" as="sourcePoint" />
-            <mxPoint x="549" y="796" as="targetPoint" />
+            <mxPoint x="765" y="796" as="sourcePoint" />
+            <mxPoint x="545" y="796" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="kJEVwrQ9yLZuHqwZEnRY-55" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1">
@@ -108,8 +108,8 @@
         </mxCell>
         <mxCell id="kJEVwrQ9yLZuHqwZEnRY-58" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="767" y="911" as="sourcePoint" />
-            <mxPoint x="547" y="911" as="targetPoint" />
+            <mxPoint x="769" y="910" as="sourcePoint" />
+            <mxPoint x="546" y="911" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="kJEVwrQ9yLZuHqwZEnRY-45" value="C. AuthN &amp;amp; AuthZ" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
